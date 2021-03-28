@@ -243,7 +243,7 @@ plot_ppca(actual_W, actual_mu, actual_z, X_train)
 ```
 
 
-![png](ppca_pcca_in_tfd_files/output_18_0.png)
+![png](/images/ppca_pcca_in_tfd_files/output_18_0.png)
 
 
 # Define Probabilistic CCA model
@@ -425,5 +425,5 @@ ax.set_title("PCCA: True Generative Process vs. Noisy Sampled Canonical Componen
 
 
 
-![png](ppca_pcca_in_tfd_files/output_25_1.png)
+![png](/ppca_pcca_in_tfd_files/output_25_1.png)
 
